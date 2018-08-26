@@ -1,8 +1,8 @@
-### Monitoring Availability Groups
+## Monitoring Availability Groups
 
-#### By Tracy Boggiano
+### By Tracy Boggiano
 
-![Logo](assets/img/databasesuperherolargelogo.jpg&position=center)
+![Logo](assets/img/logo.jpg&position=center)
 
 ---
 
