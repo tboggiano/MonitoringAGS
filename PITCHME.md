@@ -6,9 +6,7 @@
 
 ---
 
-## Welcome to SQLSaturday Denver'!'
-
-<img src="assets/images/welcome.jpg" style="float: left;" border=none/>
+## Welcome to SQLSaturday Denver! <img src="assets/image/welcome.jpg" style="float: left;" border=none/>
 
 @footer<img src="assets/image/smalllogo.jpg" align="center" size=small border=none/>
 
