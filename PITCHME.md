@@ -19,7 +19,7 @@
 </table>
 
 ---
-@tile About Me
+@title About Me
 
 ## About Me
 
@@ -32,7 +32,7 @@
       Broadvine
     </td>
     <td>
-      <font size=8>
+      <font size=4>
       <b>SQL Experience</b>
       <ul>
         <li>19+ years experience on SQL Server dating back to 6.5</li>
