@@ -2,6 +2,7 @@
 
 ### By Tracy Boggiano
 
+![ImageLargeLogo](assets/image/largelogo.jpg)
 <img src="assets/image/largelogo.jpg" align="center" border="none"/>
 
 ---
@@ -19,18 +20,37 @@
 ---
 ## About Me
 
-<img src="assets/image/avatar.png" border=none/> <br> **Tracy Boggiano** <br> **Database Superhero** <br> **Broadvine** | **SQL Experience**
-*19+ years experience on SQL Server dating back to 6.5
-*MCDBA SQL 7, Few other certs, most recent MCSE 2012
-**PASS Involvement**
-*Idera Ace 2018 and Idera Super Star 2018
-*Co-leader of SIG Advanced DBA of TriPass In Raleigh
-*Leading getting Linux content in the existing Virtual Groups
-**Volunteer Work**
-*Founder of WeSpeakLinux.com
-*Member of SpeakingMentors.com
-*Volunteer with abused and neglected foster children through the NC Guardian ad Litem (volunteerforgal.org) also known as CASA nationwide (casaforchildren.org) for 15+ years
-
+<table>
+  <tr>
+    <td valign=center align=center>
+      <img src="assets/image/avatar.png" border=none/><br>
+      Tracy Boggiano<br>
+      Database Superhero<br> 
+      Broadvine
+    </td>
+    <td>
+      <font size=4>
+      <b>SQL Experience</b><br>
+      <ul>
+        <li>19+ years experience on SQL Server dating back to 6.5</li>
+        <li>MCDBA SQL 7, Few other certs, most recent MCSE 2012</li>
+      </ul>
+      <br><b>PASS Involvement</b><br>
+      <ul>
+        <li>Idera Ace 2018 and Idera Super Star 2018</li>
+        <li>Co-leader of SIG Advanced DBA of TriPass In Raleigh</li>
+        <li>Leading getting Linux content in the existing Virtual Groups</li>
+      </ul>
+      <br><b>Volunteer Work</b><br>
+      <ul>
+        <li>Founder of WeSpeakLinux.com</li>
+        <li>Member of SpeakingMentors.com</li>
+        <li>Volunteer with abused and neglected foster children through the NC Guardian ad Litem (volunteerforgal.org) also known as CASA nationwide (casaforchildren.org) for 15+ years</li>
+      </ul>
+      </font>
+    </td>
+  </tr>
+</table>
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
