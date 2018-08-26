@@ -1,6 +1,8 @@
-# White
+# Monitoring Availability Groups
 
-### A GitPitch Presentation Template
+### By Tracy Boggiano
+
+![Logo](assets/img/databasesuperherolargelogo.jpg&position=center)
 
 ---
 
@@ -105,16 +107,10 @@ http.createServer(function (request, response) {
 
 <br>
 
-@fa[twitter gp-contact](@gitpitch)
+@fa[twitter gp-contact](@TracyBoggiano)
 
 @fa[github gp-contact](gitpitch)
 
 @fa[medium gp-contact](@gitpitch)
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/white)
-
