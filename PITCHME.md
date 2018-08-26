@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <h2>Welcome to SQLSaturday Denver!</h2>
+      <h2 valign=center>Welcome to SQLSaturday Denver!</h2>
     </td>
     <td>
       <img src="assets/image/welcome.jpg" style="float: left;" border=none/>
@@ -18,38 +18,39 @@
   </tr>
 </table>
 
-@footer<img src="assets/image/smalllogo.jpg" align="center" border=none/>
-
 ---
+@tile About Me
 
 ## About Me
 
 <table>
   <tr>
-    <td align=center>
+    <td valign=center align=center>
       <img src="assets/image/avatar.png" border=none/>
       Tracy Boggiano<br>
       Database Superhero<br> 
       Broadvine
     </td>
     <td>
-      <h4>SQL Experience</h4>
+      <font size=8>
+      <b>SQL Experience</b>
       <ul>
         <li>19+ years experience on SQL Server dating back to 6.5</li>
         <li>MCDBA SQL 7, Few other certs, most recent MCSE 2012</li>
       </ul>
-      <h4>PASS Involvement</h4>
+      <b>PASS Involvement</b>
       <ul>
         <li>Idera Ace 2018 and Idera Super Star 2018</li>
         <li>Co-leader of SIG Advanced DBA of TriPass In Raleigh</li>
         <li>Leading getting Linux content in the existing Virtual Groups</li>
       </ul>
-      <h4>Volunteer Work</h4>
+      <b>Volunteer Work</b>
       <ul>
         <li>Founder of WeSpeakLinux.com</li>
         <li>Member of SpeakingMentors.com</li>
         <li>Volunteer with abused and neglected foster children through the NC Guardian ad Litem (volunteerforgal.org) also known as CASA nationwide (casaforchildren.org) for 15+ years</li>
       </ul>
+      </font>
     </td>
   </tr>
 </table>
