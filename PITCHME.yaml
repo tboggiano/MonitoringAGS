@@ -9,6 +9,8 @@ theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
 logo : assets/image/logo.png
-transition : none
+logo-position : bottom-right
+transition : fade
 published : true
-footnote : "GitPitch [ White ] Presentation Template"
+footnote : "© Database Superheroes LLC 2018"
+remote-control : true

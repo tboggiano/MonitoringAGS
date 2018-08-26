@@ -2,13 +2,21 @@
 
 ### By Tracy Boggiano
 
-<img src="assets/image/largelogo.jpg" align="center" border=0/>
+<img src="assets/image/largelogo.jpg" align="center" border="none"/>
 
 ---
+@title Welcome
 
-## Welcome to SQLSaturday Denver! 
-
-<img src="assets/image/welcome.jpg" style="float: left;" border=none/>
+<table>
+  <tr>
+    <td>
+      <h2>Welcome to SQLSaturday Denver!</h2>
+    </td>
+    <td>
+      <img src="assets/image/welcome.jpg" style="float: left;" border=none/>
+    </td>
+  </tr>
+</table>
 
 @footer<img src="assets/image/smalllogo.jpg" align="center" border=none/>
 
