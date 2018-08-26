@@ -19,18 +19,28 @@
 <table>
   <tr>
     <td align=center>
-      <img src="assets/image/avatat.jpg" align="right" border=none/>
-      Tracy Boggiano 
-      Database Superhero 
+      <img src="assets/image/avatar.png" align="right" border=none/>
+      Tracy Boggiano<br>
+      Database Superhero<br> 
       Broadvine
     </td>
-  </tr>
-  <tr>
     <td>
-      <h2>SQL Experience</h2>
+      <h4>SQL Experience</h4>
       <ul>
         <li>19+ years experience on SQL Server dating back to 6.5</li>
         <li>MCDBA SQL 7, Few other certs, most recent MCSE 2012</li>
+      </ul>
+      <h4>PASS Involvement</h4>
+      <ul>
+        <li>Idera Ace 2018 and Idera Super Star 2018</li>
+        <li>Co-leader of SIG Advanced DBA of TriPass In Raleigh</li>
+        <li>Leading getting Linux content in the existing Virtual Groups</li>
+      </ul>
+      <h4>Volunteer Work</h4>
+      <ul>
+        <li>Founder of WeSpeakLinux.com</li>
+        <li>Member of SpeakingMentors.com</li>
+        <li>Volunteer with abused and neglected foster children through the NC Guardian ad Litem (volunteerforgal.org) also known as CASA nationwide (casaforchildren.org) for 15+ years</li>
       </ul>
     </td>
   </tr>
