@@ -2,17 +2,15 @@
 
 ### By Tracy Boggiano
 
-<img src="assets/image/logo.jpg" align="center;" size=medium border=none/>
+<img src="assets/image/largelogo.jpg" align="center" size=small border=none/>
 
 ---
 
-## Tips!
+## Welcome to SQLSaturday Denver'!'
 
-<br>
+<img src="assets/images/welcome.jpg" style="float: left;" border=none/>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+@footer<img src="assets/image/smalllogo.jpg" align="center" size=small border=none/>
 
 ---
 
