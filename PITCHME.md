@@ -19,7 +19,7 @@
 ---
 ## About Me
 
-<img src="assets/image/avatar.png" border=none/> <br> **Tracy Boggiano** <br> **Database Superhero** <br> **Broadvine**|**SQL Experience**
+<img src="assets/image/avatar.png" border=none/> <br> **Tracy Boggiano** <br> **Database Superhero** <br> **Broadvine** | **SQL Experience**
 *19+ years experience on SQL Server dating back to 6.5
 *MCDBA SQL 7, Few other certs, most recent MCSE 2012
 **PASS Involvement**
