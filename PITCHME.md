@@ -2,7 +2,7 @@
 
 ### By Tracy Boggiano
 
-![Logo](assets/image/logo.jpg)
+![Logo](assets/image/logo.jpg&border=0%percent=50)
 
 ---
 
