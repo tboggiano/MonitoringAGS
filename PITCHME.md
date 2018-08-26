@@ -2,24 +2,39 @@
 
 ### By Tracy Boggiano
 
-<img src="assets/image/largelogo.jpg" align="center" size=small border=none/>
+<img src="assets/image/largelogo.jpg" align="center" border=none/>
 
 ---
 
-## Welcome to SQLSaturday Denver! <img src="assets/image/welcome.jpg" style="float: left;" border=none/>
+## Welcome to SQLSaturday Denver! 
 
-@footer<img src="assets/image/smalllogo.jpg" align="center" size=small border=none/>
+<img src="assets/image/welcome.jpg" style="float: left;" border=none/>
+
+@footer<img src="assets/image/smalllogo.jpg" align="center" border=none/>
 
 ---
 
-## Template Features
+## About Me
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+<table>
+  <tr>
+    <td align=center>
+      <img src="assets/image/avatat.jpg" align="right" border=none/>
+      Tracy Boggiano 
+      Database Superhero 
+      Broadvine
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h2>SQL Experience</h2>
+      <ul>
+        <li>19+ years experience on SQL Server dating back to 6.5</li>
+        <li>MCDBA SQL 7, Few other certs, most recent MCSE 2012</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
@@ -105,8 +120,10 @@ http.createServer(function (request, response) {
 
 @fa[twitter gp-contact](@TracyBoggiano)
 
-@fa[github gp-contact](gitpitch)
+@fa[github gp-contact](tboggiano)
 
-@fa[medium gp-contact](@gitpitch)
+@fa[evenlope gp-contact](tracy@tracyboggiano.com)
+
+@fa[browser gp-contact](databasesuperhero.com)
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
