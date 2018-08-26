@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td align=center>
-      <img src="assets/image/avatar.png" align="right" border=none/>
+      <img src="assets/image/avatar.png" border=none/>
       Tracy Boggiano<br>
       Database Superhero<br> 
       Broadvine
@@ -128,12 +128,10 @@ http.createServer(function (request, response) {
 
 <br>
 
-@fa[twitter gp-contact](@TracyBoggiano)
+@fa[twitter](@TracyBoggiano)
 
-@fa[github gp-contact](tboggiano)
+@fa[github](tboggiano)
 
-@fa[evenlope gp-contact](tracy@tracyboggiano.com)
+@fa[envelope](tracy@tracyboggiano.com)
 
-@fa[browser gp-contact](databasesuperhero.com)
-
----?image=assets/image/gitpitch-audience.jpg&opacity=100
+@fa[wordpress](databasesuperhero.com)
