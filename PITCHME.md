@@ -2,7 +2,7 @@
 
 ### By Tracy Boggiano
 
-<img src="assets/image/largelogo.jpg" align="center" border=none/>
+<img src="assets/image/largelogo.jpg" align="center" border=0/>
 
 ---
 
