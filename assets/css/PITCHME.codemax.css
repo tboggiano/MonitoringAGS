@@ -10,6 +10,10 @@ body {
   background-color: #fff;
 }
 
+image {
+  border: none
+}
+
 html:-webkit-full-screen-ancestor {
   background: #fff;
   background-color: #fff;
