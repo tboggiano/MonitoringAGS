@@ -2,7 +2,7 @@
 
 ### By Tracy Boggiano
 
-![ImageLargeLogo](assets/image/largelogo.jpg&border=none)
+![ImageLargeLogo](assets/image/largelogo.jpg)
 
 ---
 <table>
@@ -11,7 +11,7 @@
       <h2 valign=center>Welcome to SQLSaturday Denver!</h2>
     </td>
     <td>
-      <img src="assets/image/welcome.jpg" style="float: left;" border=none/>
+      ![ImageWelcome](assets/image/welcome.jpg)
     </td>
   </tr>
 </table>

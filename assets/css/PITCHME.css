@@ -14,6 +14,10 @@ image {
   border: none
 }
 
+a img { 
+  border: none; 
+} 
+
 html:-webkit-full-screen-ancestor {
   background: #fff;
   background-color: #fff;
