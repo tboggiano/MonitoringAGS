@@ -11,7 +11,7 @@
 ---
 ## About Me
 
-![ImageAvatar](assets/image/avatar.png)
+![ImageAvatar](assets/image/avatar.png)<br>
 Tracy Boggiano<br>
 Database Superhero<br>
 Broadvine
@@ -19,9 +19,10 @@ Broadvine
 ---
 
 ## About Me
+
 **SQL Experience**
-* 19+ years experience on SQL Server dating back to 6.5
-* MCDBA SQL 7, Few other certs, most recent MCSE 2012
+* 19+ years experience on SQL Server going back to 6.5
+* MCDBA SQL 7 certification, most recently MCSE on 2012
 
 **PASS Involvement**
 * Idera Ace 2018 and Idera Super Star 2018
