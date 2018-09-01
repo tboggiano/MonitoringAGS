@@ -10,23 +10,29 @@
 
 ---
 ## About Me
-**SQL Experience**
-* 19+ years experience on SQL Server dating back to 6.5
-* MCDBA SQL 7, Few other certs, most recent MCSE 2012
-**PASS Involvement**
-* Idera Ace 2018 and Idera Super Star 2018
-* Co-leader of SIG Advanced DBA of TriPass In Raleigh
-* Leading getting Linux content in the existing Virtual Groups
-**Volunteer Work**
-* Founder of [WeSpeakLinux.com](http://WeSpeakLinux.com)
-* Member of [SpeakingMentors.com](http://SpeakingMentors.com)
-* Volunteer with abused and neglected foster children through the [NC Guardian ad Litem](http://volunteerforgal.org) also known as [CASA](http://casaforchildren.org) nationwide  for 15+ years
-
-@snap[west sidebar]
-![ImageAvatar](assets/image/avatar.png)|
-Tracy Boggiano|
-Database Superhero|
-Broadvine
+<table>
+  <tr>
+    <td align=center valign=center>
+      ![ImageAvatar](assets/image/avatar.png)<br>
+      Tracy Boggiano<br>
+      Database Superhero<br>
+      Broadvine
+    </td>
+    <td>
+      **SQL Experience**
+      * 19+ years experience on SQL Server dating back to 6.5
+      * MCDBA SQL 7, Few other certs, most recent MCSE 2012
+      **PASS Involvement**
+      * Idera Ace 2018 and Idera Super Star 2018
+      * Co-leader of SIG Advanced DBA of TriPass In Raleigh
+      * Leading getting Linux content in the existing Virtual Groups
+      **Volunteer Work**
+      * Founder of [WeSpeakLinux.com](http://WeSpeakLinux.com)
+      * Member of [SpeakingMentors.com](http://SpeakingMentors.com)
+      * Volunteer with abused and neglected foster children through the [NC Guardian ad Litem](http://volunteerforgal.org) also known as [CASA](http://casaforchildren.org) nationwide  for 15+ years
+    </td>
+  </tr>
+</table>
 
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
