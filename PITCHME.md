@@ -10,11 +10,10 @@
 
 ---
 ## About Me
-<font size=6>
 <table>
   <tr>
     <td align=center valign=center>
-      <img src="/assets/image/avatar.png"><br>
+      <img src="./assets/image/avatar.png"><br>
       Tracy Boggiano<br>
       Database Superhero<br>
       Broadvine
@@ -31,6 +30,21 @@
         <li>Co-leader of SIG Advanced DBA of TriPass In Raleigh</li>
         <li>Leading getting Linux content in the existing Virtual Groups</li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+---
+## About Me
+<table>
+  <tr>
+    <td align=center valign=center>
+      <img src="/assets/image/avatar.png"><br>
+      Tracy Boggiano<br>
+      Database Superhero<br>
+      Broadvine
+    </td>
+    <td>
       <b>Volunteer Work</b>
       <ul>
         <li>Founder of <a href="http://WeSpeakLinux.com">WeSpeakLinux.com</a></li>
@@ -40,7 +54,6 @@
     </td>
   </tr>
 </table>
-</font>
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
