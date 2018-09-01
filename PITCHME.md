@@ -10,51 +10,31 @@
 
 ---
 ## About Me
-<table>
-  <tr>
-    <td align=center valign=center>
-      <img src="./assets/image/avatar.png"><br>
-      Tracy Boggiano<br>
-      Database Superhero<br>
-      Broadvine
-    </td>
-    <td>
-      <b>SQL Experience</b>
-      <ul>
-        <li>19+ years experience on SQL Server dating back to 6.5</li>
-        <li>MCDBA SQL 7, Few other certs, most recent MCSE 2012</li>
-      </ul>
-      <b>PASS Involvement</b>
-      <ul>
-        <li>Idera Ace 2018 and Idera Super Star 2018</li>
-        <li>Co-leader of SIG Advanced DBA of TriPass In Raleigh</li>
-        <li>Leading getting Linux content in the existing Virtual Groups</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+![ImageAvatar](assets/image/avatar.png)
+Tracy Boggiano<br>
+Database Superhero<br>
+Broadvine
+
+---
+
+## About Me
+**SQL Experience**
+* 19+ years experience on SQL Server dating back to 6.5
+* MCDBA SQL 7, Few other certs, most recent MCSE 2012
+
+**PASS Involvement**
+* Idera Ace 2018 and Idera Super Star 2018
+* Co-leader of SIG Advanced DBA of TriPass In Raleigh
+* Leading getting Linux content in the existing Virtual Groups
 
 ---
 ## About Me
-![ImageAvatar](assets/image/avatar.png)
-<table>
-  <tr>
-    <td align=center valign=center>
-      <img src="/assets/image/avatar.png"><br>
-      Tracy Boggiano<br>
-      Database Superhero<br>
-      Broadvine
-    </td>
-    <td>
-      <b>Volunteer Work</b>
-      <ul>
-        <li>Founder of <a href="http://WeSpeakLinux.com">WeSpeakLinux.com</a></li>
-        <li>Member of <a href="http://SpeakingMentors.com">SpeakingMentors.com</a></li>
-        <li>Volunteer with abused and neglected foster children through the <a href="http://volunteerforgal.org">NC Guardian ad Litem</a> also known as <a href="http://casaforchildren.org">CASA</a> nationwide for 15+ years</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+**Volunteer Work**
+* Founder of [WeSpeakLinux.com](http://WeSpeakLinux.com)
+* Member of [SpeakingMentors.com](http://SpeakingMentors.com)
+* Volunteer with abused and neglected foster children through the [NC Guardian ad Litem](http://volunteerforgal.org) also known as [CASA](http://casaforchildren.org) nationwide for 15+ years
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
