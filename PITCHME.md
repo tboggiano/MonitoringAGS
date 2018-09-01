@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align=center valign=center>
-      <img src="https://github.com/tboggiano/MonitoringAGs/tree/master/assets/image/avatar.png"><br>
+      <img src="./assets/image/avatar.png"><br>
       Tracy Boggiano<br>
       Database Superhero<br>
       Broadvine
@@ -36,10 +36,11 @@
 
 ---
 ## About Me
+![ImageAvatar](assets/image/avatar.png)
 <table>
   <tr>
     <td align=center valign=center>
-      <img src="https://i0.wp.com/tracyboggiano.com/wp-content/uploads/2017/11/Tracy_Boggianos-e1511173716238.png?resize=300%2C256&ssl=1"><br>
+      <img src="/assets/image/avatar.png"><br>
       Tracy Boggiano<br>
       Database Superhero<br>
       Broadvine
