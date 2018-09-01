@@ -10,6 +10,7 @@
 
 ---
 ## About Me
+<font size=6>
 <table>
   <tr>
     <td align=center valign=center>
@@ -39,7 +40,7 @@
     </td>
   </tr>
 </table>
-
+</font>
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
