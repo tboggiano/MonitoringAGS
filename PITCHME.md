@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align=center valign=center>
-      <img src="assets/image/avatar.png"><br>
+      <img src="/assets/image/avatar.png"><br>
       Tracy Boggiano<br>
       Database Superhero<br>
       Broadvine
