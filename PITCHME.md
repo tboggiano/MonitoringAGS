@@ -5,16 +5,11 @@
 ![ImageLargeLogo](assets/image/largelogo.jpg)
 
 ---
-##Welcome to SQLSaturday Denver!
+## Welcome to SQLSaturday Denver!
 ![ImageWelcome](assets/image/welcome.jpg)
 
 ---
 ## About Me
-
-![ImageAvatar](assets/image/avatar.png)
-@size[4]Tracy Boggiano
-Database Superhero
-Broadvine
 **SQL Experience**
 * 19+ years experience on SQL Server dating back to 6.5
 * MCDBA SQL 7, Few other certs, most recent MCSE 2012
@@ -23,9 +18,16 @@ Broadvine
 * Co-leader of SIG Advanced DBA of TriPass In Raleigh
 * Leading getting Linux content in the existing Virtual Groups
 **Volunteer Work**
-* Founder of WeSpeakLinux.com
-* Member of SpeakingMentors.com
-* Volunteer with abused and neglected foster children through the NC Guardian ad Litem (volunteerforgal.org) also known as CASA nationwide (casaforchildren.org) for 15+ years
+* Founder of [WeSpeakLinux.com](http://WeSpeakLinux.com)
+* Member of [SpeakingMentors.com](http://SpeakingMentors.com)
+* Volunteer with abused and neglected foster children through the [NC Guardian ad Litem](http://volunteerforgal.org) also known as [CASA](http://casaforchildren.org) nationwide  for 15+ years
+
+@snap[west sidebar]
+![ImageAvatar](assets/image/avatar.png)|
+Tracy Boggiano|
+Database Superhero|
+Broadvine
+
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
